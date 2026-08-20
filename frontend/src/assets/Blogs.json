@@ -1,0 +1,44 @@
+{
+   "Blogs" : [
+        {
+            "id" : 1,
+            "title" : "You Can Easily Change And Shift Your Home At Any Time",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus dolor placeat fuga deleniti doloremque? Ratione officia.",
+            "image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/blog/blog-image-7.jpg",
+            "date" : "03 June" ,
+            "Agent_Name" : "Travolta Kyon",
+            "Agent_Image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/user/user-image-16.jpg",
+            "Agent_Description" : "Claritas est etiam amet sinicus, qui sequitur lorem ipsum semet coui lectorum. Lorem ipsum dolor voluptatem corporis blanditiis sadipscing elitr sed diam nonumy eirmod amet sit lorem dolore magna aliqua labore dolore aliqua ipsum."
+        },
+        {
+            "id" : 2,
+            "title" : "You Can Easily Change And Shift Your Home At Any Time",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus dolor placeat fuga deleniti doloremque? Ratione officia.",
+            "image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/blog/blog-image-8.jpg",
+            "date" : "03 June" ,
+            "Agent_Name" : "Travolta Kyon",
+            "Agent_Image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/user/user-image-16.jpg",
+            "Agent_Description" : "Claritas est etiam amet sinicus, qui sequitur lorem ipsum semet coui lectorum. Lorem ipsum dolor voluptatem corporis blanditiis sadipscing elitr sed diam nonumy eirmod amet sit lorem dolore magna aliqua labore dolore aliqua ipsum."
+        },
+        {
+            "id" : 3,
+            "title" : "You Can Easily Change And Shift Your Home At Any Time",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus dolor placeat fuga deleniti doloremque? Ratione officia.",
+            "image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/blog/blog-image-6.jpg",
+            "date" : "03 June" ,
+            "Agent_Name" : "Travolta Kyon",
+            "Agent_Image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/user/user-image-16.jpg",
+            "Agent_Description" : "Claritas est etiam amet sinicus, qui sequitur lorem ipsum semet coui lectorum. Lorem ipsum dolor voluptatem corporis blanditiis sadipscing elitr sed diam nonumy eirmod amet sit lorem dolore magna aliqua labore dolore aliqua ipsum."
+        },
+        {
+            "id" : 4,
+            "title" : "You Can Easily Change And Shift Your Home At Any Time",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamc laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem necessitatibus dolor placeat fuga deleniti doloremque? Ratione officia.",
+            "image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/blog/blog-image-3.jpg",
+            "date" : "03 June" ,
+            "Agent_Name" : "Travolta Kyon",
+            "Agent_Image" : "https://torado.envytheme.com/real-estate-2/default/assets/images/user/user-image-16.jpg",
+            "Agent_Description" : "Claritas est etiam amet sinicus, qui sequitur lorem ipsum semet coui lectorum. Lorem ipsum dolor voluptatem corporis blanditiis sadipscing elitr sed diam nonumy eirmod amet sit lorem dolore magna aliqua labore dolore aliqua ipsum."
+        }
+    ]
+}
